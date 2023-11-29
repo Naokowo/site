@@ -3,6 +3,7 @@
 </script>
 
 <main>
+	<h1>Hello</h1>
 	<img src="/favicon.png" width="128px" alt="o7 Logo" />
 	<h1>Welcome to the o7 stack!</h1>
 	<h2>Next Steps:</h2>
