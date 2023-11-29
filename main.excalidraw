@@ -1,0 +1,261 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "SxcQ7sIsfAldapW_pj2Ya",
+      "type": "rectangle",
+      "x": 365,
+      "y": 214,
+      "width": 226,
+      "height": 482,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 595030163,
+      "version": 105,
+      "versionNonce": 1112099219,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701266792404,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "ocppYbCIj4lFED4Bucc5L",
+      "type": "rectangle",
+      "x": 382,
+      "y": 239,
+      "width": 192,
+      "height": 56,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1546690355,
+      "version": 82,
+      "versionNonce": 1597368285,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "lShUFvW3FFQLKkahFEfO4"
+        }
+      ],
+      "updated": 1701266798133,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "lShUFvW3FFQLKkahFEfO4",
+      "type": "text",
+      "x": 456.2200241088867,
+      "y": 254.5,
+      "width": 43.55995178222656,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1480106707,
+      "version": 6,
+      "versionNonce": 694132253,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701266799650,
+      "link": null,
+      "locked": false,
+      "text": "Hello",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 18,
+      "containerId": "ocppYbCIj4lFED4Bucc5L",
+      "originalText": "Hello",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "cuC-3m9e4hi6ZkKClP55i",
+      "type": "rectangle",
+      "x": 393,
+      "y": 312,
+      "width": 69,
+      "height": 114,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1276803805,
+      "version": 30,
+      "versionNonce": 1395206589,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701266802787,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "zPqVWdo68WwpZ4uUcSAvE",
+      "type": "rectangle",
+      "x": 494,
+      "y": 320,
+      "width": 70,
+      "height": 106,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1328998941,
+      "version": 77,
+      "versionNonce": 527294109,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701266806637,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "rXVBOvOlbZbMUhITAPimK",
+      "type": "line",
+      "x": 386,
+      "y": 521,
+      "width": 79,
+      "height": 121,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "uwLLy0F46j0q3aaqLRw6H"
+      ],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2076697139,
+      "version": 114,
+      "versionNonce": 476653811,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701266844160,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          79,
+          121
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "m0-JLq0nZpYhLwv145MR8",
+      "type": "line",
+      "x": 464,
+      "y": 640,
+      "width": 99,
+      "height": 111,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "uwLLy0F46j0q3aaqLRw6H"
+      ],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 214779197,
+      "version": 95,
+      "versionNonce": 1507693203,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701266844160,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          99,
+          -111
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
