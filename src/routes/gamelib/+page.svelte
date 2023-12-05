@@ -3,13 +3,15 @@
 
 <main>
     <div>
-        hello
+        Library
+    </div>
+    <div class="buttons">
+        <button>ello</button>
+        <button>ello</button>
     </div>
 </main>
 
 <style>
-    main {
-    }
 	div {
         background-color: #0000ff;
         width: 100%;
@@ -17,5 +19,10 @@
         display: flex;
         justify-content: center;
         align-items: center;
+    }
+
+    .buttons{
+        display: flex;
+        flex-direction: column;
     }
 </style>

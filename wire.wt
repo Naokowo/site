@@ -1,0 +1,15 @@
+include components-v1
+
+Phone id=home title=Library
+    .wt-columns
+        Button content=sort
+        Button content=filter
+    List
+        h2 "playstation V"
+        ListItem text="game 1" thumbnail=image
+        ListItem text="game 2" thumbnail=image
+        h2 "switch V" #accordion
+        ListItem text="game 1" thumbnail=image
+        ListItem text="game 2" thumbnail=image
+    
+    Button content="add a game"
