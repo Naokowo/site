@@ -3,11 +3,11 @@
 
 <main>
 <div class="header">Your Library</div>
-    <div class="buttons">
-        <button class="sort button-17">sort</button>
-        <button class="filter button-17">filter</button>
-    </div>
-    <div class="container centered">
+<div class="container centered">
+        <div class="buttons">
+            <button class="sort button-17">sort</button>
+            <button class="filter button-17">filter</button>
+        </div>
         <div class="console">
             <h1>Playstation</h1>
         </div>
@@ -46,7 +46,6 @@
         display: flex;
         align-items: center;
         flex-direction: column;
-        width: 100vw;
     }
     .add{
         padding: 1em;
@@ -121,7 +120,7 @@
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
-    width: 100%;
+    width: 40vw;
     will-change: transform,opacity;
     z-index: 0;
     }
